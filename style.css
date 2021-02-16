@@ -1,0 +1,28 @@
+body {
+  background: #03071e;
+}
+
+.result {
+  display: flex;
+  flex-direction: row;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #003049;
+}
+
+.grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  width: 618px;
+  height: 618px;
+}
+
+.ghost {
+  background: url('/images/ghost.png');
+  background-size: contain;
+}
