@@ -1,10 +1,9 @@
 # catchTheGhost
 
 ## Table of contents
-* General info
-* Technologies
-* Sources
-* Status
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
 
 ## General info
 This is a simple Whack-a-mole! game created with JavaScript with some Halloween twist.
